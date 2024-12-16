@@ -1,0 +1,48 @@
+# Ignore virtual environment folder
+venv/
+.env/
+.venv/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# IDE files and folders
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Python distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Unit test results
+nosetests.xml
+coverage.xml
+*.cover
+
+# Dependency directory (if not using pipenv or poetry)
+Pipfile.lock
+
+# pytest cache
+.cache/
+
+# Mypy type checking
+.mypy_cache/
+
+# Sphinx documentation
+_docs/_build/
+
+# VSCode workspace settings
+.vscode/
