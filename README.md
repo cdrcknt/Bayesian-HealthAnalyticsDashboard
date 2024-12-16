@@ -85,6 +85,11 @@ To run this app locally:
 ### 4. **Recommendations**
 ![Dashboard Screenshot 4](assets/screenshot4.png)
 
+### Try it here
+
+https://bayesian-healthdashboard.streamlit.app/
+
 ### Developers
+
 Cedric Kent Centeno
 ---
